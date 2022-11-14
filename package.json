@@ -1,0 +1,51 @@
+{
+  "QuestionBanks" : [
+    {"Bank" : 1,
+      "Questions" : [
+        "What is the capital of Egypt?",
+        "What is the capital of Italy?",
+        "What is the capital of Russia?"
+        ],
+      "Possible Answers" : [
+        ["Cairo", "Tripoli", "El Alamein"],
+        ["Florence", "Rome", "Sicily"],
+        ["St. Petersburg", "Moscow", "Vologrod"]
+      ],
+      "Correct Answers" : [
+        ["Cairo", "Rome", "Moscow"]
+      ]
+      },
+    {"Bank" : 2,
+      "Questions" : [
+        "What color is the sky?",
+        "What is the main component of air?",
+        "Which animal is a reptile?"
+          ],
+          "Possible Answers" : [
+            ["Cell", "Quark", "Atom"],
+            ["Nitrogen", "Oxygen", "Uranium"],
+            ["Whale", "Doggo", "Crocodile"]
+          ],
+          "Correct Answers" : [
+            "Cell", "Nitrogen", "Crocodile"
+          ]
+    },
+    {"Bank": 3,
+      "Questions": [
+        "What century was the car invented?",
+        "Who won ww2?",
+        "When did snapchat come out?"
+      ],
+        "Possible Answers" : [
+          ["19th Century", "10th Century", "21st Century"],
+          ["Antarctica", "Germany", "Allied Powers"],
+          ["1892", "2012", "30"]
+        ],
+        "Correct Answers" : [
+          "19th Century", "Allied Powers", "2012"
+        ]
+    }
+  ]
+}
+
+
